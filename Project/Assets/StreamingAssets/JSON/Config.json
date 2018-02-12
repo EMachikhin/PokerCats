@@ -1,0 +1,461 @@
+{
+  "PreflopRanges": [
+	{
+      "Position": "MP2",
+	  "OpenRaise": [
+	  "AA", "KK", "QQ", "JJ", "TT", "99", "88", "77", "66", "55", "44", "33", "AKs", "AQs", "AJs", "ATs", "AKo", "AQo", "AJo", "KQo", "KQs", "KJs", "KTs", "QJs", "QTs", "JTs", "J9s", "T9s", "98s", "87s", "76s", "65s"
+	  ],
+    "ColdCall": [
+    ],
+    "3Bet": [
+    ],
+	"Call3Bet": [
+	{
+		"VsPosition": "MP3",
+		"Range": [
+		"KK", "QQ", "JJ", "TT*", "AKo", "AQo*", "AKs", "AQs", "KQs"
+		]
+	},
+	{
+		"VsPosition": "CO",
+		"Range": [
+		"KK", "QQ", "JJ", "TT*", "AKo", "AQo*", "AKs", "AQs", "KQs"
+		]
+	},
+	{
+		"VsPosition": "BU",
+		"Range": [
+		"KK", "QQ", "JJ", "TT*", "AKo", "AQo*", "AKs", "AQs", "KQs"
+		]
+	},
+	{
+		"VsPosition": "SB",
+		"Range": [
+		"KK", "QQ", "JJ", "TT*", "AKo", "AQo*", "AKs", "AQs", "KQs"
+		]
+	},
+	{
+		"VsPosition": "BB",
+		"Range": [
+		"KK", "QQ", "JJ", "TT*", "AKo", "AQo*", "AKs", "AQs", "KQs"
+		]
+	}
+	],
+	"4Bet": [
+	{
+		"VsPosition": "MP3",
+		"Range": [
+		"AA", "98s", "87s", "76s"
+		]
+	},
+	{
+		"VsPosition": "CO",
+		"Range": [
+		"AA", "98s", "87s", "76s"
+		]
+	},
+	{
+		"VsPosition": "BU",
+		"Range": [
+		"AA", "98s", "87s", "76s"
+		]
+	},
+	{
+		"VsPosition": "SB",
+		"Range": [
+		"AA", "AJs", "ATs", "76s"
+		]
+	},
+	{
+		"VsPosition": "BB",
+		"Range": [
+		"AA", "AJs", "ATs", "76s"
+		]
+	}
+	]
+	},
+    {
+      "Position": "MP3",
+	  "OpenRaise": [
+	  "AA", "KK", "QQ", "JJ", "TT", "99", "88", "77", "66", "55", "44", "33", "22", "AKs", "AQs", "AJs", "ATs", "A9s", "A8s", "A7s", "A5s", "AKo", "AQo", "AJo", "ATo", "KQo", "KQs", "KJs", "KTs", "QJs", "QTs", "JTs", "J9s",
+	  "T9s", "T8s", "98s", "97s", "87s", "86s", "76s", "75s", "65s", "54s"
+	  ],
+	  "ColdCall": [
+	  {
+		"VsPosition": "MP2",
+		"Range": [
+		"QQ", "JJ", "TT", "99", "88", "77", "66", "55", "AKo", "AQo", "AQs", "AJs", "ATs", "KQs", "KJs", "QJs", "JTs", "T9s", "98s", "87s"
+		]
+	  }
+	  ],
+	  "3Bet": [
+	  {
+		"VsPosition": "MP2",
+		"Range": [
+		"AA", "KK", "AJo", "KQo", "AKs", "A5s", "A4s"
+		]
+	  }
+	  ],
+		"Call3Bet": [
+		{
+			"VsPosition": "CO",
+			"Range": [
+			"QQ", "JJ", "TT", "AKo", "AQo*", "AKs", "AQs", "KQs"
+			]
+		},
+		{
+			"VsPosition": "BU",
+			"Range": [
+			"QQ", "JJ", "TT", "AKo", "AQo*", "AKs", "AQs", "KQs"
+			]
+		},
+		{
+			"VsPosition": "SB",
+			"Range": [
+			"AA*", "QQ", "JJ", "TT", "AKo", "AQo", "AKs", "AQs", "AJs", "KQs", "QJs"
+			]
+		},
+		{
+			"VsPosition": "BB",
+			"Range": [
+			"AA*", "QQ", "JJ", "TT", "AKo", "AQo", "AKs", "AQs", "AJs", "KQs", "QJs"
+			]
+		}
+		],
+		"4Bet": [
+		{
+			"VsPosition": "CO",
+			"Range": [
+			"AA", "KK", "AKs", "98s", "87s", "76s", "65s", "54s"
+			]
+		},
+		{
+			"VsPosition": "BU",
+			"Range": [
+			"AA", "KK", "AKs", "98s", "87s", "76s", "65s", "54s"
+			]
+		},
+		{
+			"VsPosition": "SB",
+			"Range": [
+			"AA*", "KK", "98s", "87s", "76s", "65s"
+			]
+		},
+		{
+			"VsPosition": "BB",
+			"Range": [
+			"AA*", "KK", "98s", "87s", "76s", "65s"
+			]
+		}
+		]
+    },
+    {
+      "Position": "CO",
+	  "OpenRaise": [
+	  "AA", "KK", "QQ", "JJ", "TT", "99", "88", "77", "66", "55", "44", "33", "22", "AKs", "AQs", "AJs", "ATs", "A9s", "A8s", "A7s", "A6s", "A5s", "A4s", "A3s", "A2s", "AKo", "AQo", "AJo", "ATo", "KQo", "KJo", "QJo", "KQs", "KJs",
+	  "KTs", "K9s", "K8s", "K7s", "K6s", "QJs", "QTs", "Q9s", "Q8s", "Q7s", "JTs", "J9s", "J8s", "T9s", "T8s", "98s", "97s", "87s", "86s", "76s", "75s", "65s", "64s", "54s"
+	  ],
+	  "ColdCall": [
+	  {
+		"VsPosition": "MP2",
+		"Range": [
+		"QQ", "JJ", "TT", "99", "88", "77", "66", "55", "44", "AKo", "AQo", "AQs", "AJs", "ATs", "KQs", "KJs", "QJs", "JTs", "T9s", "98s", "87s", "76s", "65s"
+		]
+	  },
+	  {
+		"VsPosition": "MP3",
+		"Range": [
+		"JJ", "TT", "99", "88", "77", "66", "55", "44", "AKo", "AQo", "AQs", "AJs", "ATs", "KQs", "KJs", "KTs", "QJs", "QTs", "JTs", "T9s", "98s", "87s", "76s"
+		]
+	  }
+	  ],
+	  "3Bet": [
+	  {
+		"VsPosition": "MP2",
+		"Range": [
+		"AA", "KK", "AJo", "KQo", "AKs", "A5s", "A4s"
+		]
+	  },
+	  {
+		"VsPosition": "MP3",
+		"Range": [
+		"AA", "KK", "QQ", "AJo", "KQo", "AKs", "A5s", "A4s", "T8s", "97s"
+		]
+	  }
+	  ],
+		"Call3Bet": [
+		{
+			"VsPosition": "BU",
+			"Range": [
+			"AA", "JJ", "TT", "99", "AKo*", "AQo", "KQo", "AQs", "AJs", "KQs", "KJs", "QJs"
+			]
+		},
+		{
+			"VsPosition": "SB",
+			"Range": [
+			"JJ", "TT", "99", "AKo", "AQo", "AJo", "KQo", "AQs", "AJs", "ATs", "KQs", "KJs", "KTs", "QJs", "QTs", "JTs", "T9s", "98s"
+			]
+		},
+		{
+			"VsPosition": "BB",
+			"Range": [
+			"JJ", "TT", "99", "AKo", "AQo", "AJo", "KQo", "AQs", "AJs", "ATs", "KQs", "KJs", "KTs", "QJs", "QTs", "JTs", "T9s", "98s"
+			]
+		}
+		],
+		"4Bet": [
+		{
+			"VsPosition": "BU",
+			"Range": [
+			"KK", "QQ", "AKo*", "AKs", "T9s", "98s", "87s", "76s", "65s"
+			]
+		},
+		{
+			"VsPosition": "SB",
+			"Range": [
+			"AA", "KK", "QQ", "AKs", "A8s", "A7s", "A6s", "A5s", "87s", "76s"
+			]
+		},
+		{
+			"VsPosition": "BB",
+			"Range": [
+			"AA", "KK", "QQ", "AKs", "A8s", "A7s", "A6s", "A5s", "87s", "76s"
+			]
+		}
+		]
+	},
+	{
+      "Position": "BU",
+	  "OpenRaise": [
+	  "AA", "KK", "QQ", "JJ", "TT", "99", "88", "77", "66", "55", "44", "33", "22", "AKs", "AQs", "AJs", "ATs", "A9s", "A8s", "A7s", "A6s", "A5s", "A4s", "A3s", "A2s", "AKo", "AQo", "AJo", "ATo", "A9o", "A8o", "A7o", "A6o", "A5o",
+	  "A4o", "A3o", "A2o", "KQo", "KJo", "KTo", "K9o", "K8o", "K7o", "QJo", "QTo", "Q9o", "JTo", "J9o", "T9o", "T8o", "98o", "87o", "KQs", "KJs", "KTs", "K9s", "K8s", "K7s", "K6s", "K5s", "K4s", "K3s", "K2s", "QJs", "QTs", "Q9s",
+	  "Q8s", "Q7s", "Q6s", "Q5s", "Q4s", "Q3s", "Q2s", "JTs", "J9s", "J8s", "J7s", "J6s", "J5s", "T9s", "T8s", "T7s", "T6s", "98s", "97s", "96s", "87s", "86s", "85s", "76s", "75s", "74s", "65s", "64s", "54s", "53s", "43s"
+	  ],
+	  "ColdCall": [
+	  {
+		"VsPosition": "MP2",
+		"Range": [
+		"QQ", "JJ", "TT", "99", "88", "77", "66", "55", "44", "33", "AKo", "AQo", "AQs", "AJs", "ATs", "KQs", "KJs", "KTs", "QJs", "QTs", "JTs", "J9s", "T9s", "98s", "87s", "76s", "65s", "54s"
+		]
+	  },
+	  {
+		"VsPosition": "MP3",
+		"Range": [
+		"JJ", "TT", "99", "88", "77", "66", "55", "44", "33", "AKo", "AQo", "AQs", "AJs", "ATs", "KQs", "KJs", "KTs", "QJs", "QTs", "JTs", "J9s", "T9s", "98s", "87s", "76s", "65s", "54s"
+		]
+	  },
+	  {
+		"VsPosition": "CO",
+		"Range": [
+		"AA*", "TT", "99", "88", "77", "66", "55", "44", "33", "22", "AKo*", "AQo", "AJo", "KQo", "AQs", "AJs", "ATs", "A9s", "A8s", "KQs", "KJs", "KTs", "QJs", "QTs", "JTs", "J9s", "T9s", "T8s", "98s", "97s", "87s", "86s", "76s",
+		"75s", "65s", "54s"
+		]
+	  }
+	  ],
+	  "3Bet": [
+	  {
+		"VsPosition": "MP2",
+		"Range": [
+		"AA", "KK", "AJo", "KQo", "AKs", "A5s", "A4s"
+		]
+	  },
+	  {
+		"VsPosition": "MP3",
+		"Range": [
+		"AA", "KK", "QQ", "AJo", "KQo", "AKs", "A5s", "A4s", "T8s", "97s"
+		]
+	  },
+	  {
+		"VsPosition": "CO",
+		"Range": [
+		"AA*", "KK", "QQ", "JJ", "AKo*", "ATo", "KJo", "QJo", "AKs", "A7s", "A6s", "A5s", "A4s", "A3s", "A2s"
+		]
+	  }
+	  ],
+		"Call3Bet": [
+		{
+			"VsPosition": "SB",
+			"Range": [
+			"AA", "TT", "99", "88", "77", "AQo", "AJo", "ATo", "KQo", "KJo", "KTo", "QJo", "AQs", "AJs", "ATs", "A9s", "A8s", "A7s", "A5s", "A4s", "A3s", "A2s", "KQs", "KJs", "KTs", "K9s", "QJs", "QTs", "Q9s", "JTs", "J9s",
+			"T9s", "T8s", "98s", "97s", "87s", "76s", "65s"
+			]
+		},
+		{
+			"VsPosition": "BB",
+			"Range": [
+			"AA", "TT", "99", "88", "77", "AQo", "AJo", "ATo", "KQo", "KJo", "KTo", "QJo", "AQs", "AJs", "ATs", "A9s", "A8s", "A7s", "A5s", "A4s", "A3s", "A2s", "KQs", "KJs", "KTs", "K9s", "QJs", "QTs", "Q9s", "JTs", "J9s",
+			"T9s", "T8s", "98s", "97s", "87s", "76s", "65s"
+			]
+		}
+		],
+		"4Bet": [
+		{
+			"VsPosition": "SB",
+			"Range": [
+			"KK", "QQ", "JJ", "AKo", "AKs", "A6s", "K8s", "K7s", "K6s", "K5s", "K4s", "Q8s", "Q7s"
+			]
+		},
+		{
+			"VsPosition": "BB",
+			"Range": [
+			"KK", "QQ", "JJ", "AKo", "AKs", "A6s", "K8s", "K7s", "K6s", "K5s", "K4s", "Q8s", "Q7s"
+			]
+		}
+		]
+	},
+	{
+      "Position": "SB",
+	  "OpenRaise": [
+	  "AA", "KK", "QQ", "JJ", "TT", "99", "88", "77", "66", "55", "44", "33", "22", "AKs", "AQs", "AJs", "ATs", "A9s", "A8s", "A7s", "A6s", "A5s", "A4s", "A3s", "A2s", "AKo", "AQo", "AJo", "ATo", "A9o", "A8o", "A7o", "KQo", "KJo",
+	  "KTo", "K9o", "QJo", "QTo", "Q9o", "JTo", "J9o", "T9o", "98o", "KQs", "KJs", "KTs", "K9s", "K8s", "K7s", "K6s", "K5s", "K4s", "K3s", "K2s", "QJs", "QTs", "Q9s", "Q8s", "Q7s", "Q6s", "Q5s", "Q4s", "JTs", "J9s", "J8s", "J7s",
+	  "T9s", "T8s", "T7s", "98s", "97s", "87s", "86s", "76s", "75s", "65s", "64s", "54s"
+	  ],
+	  "ColdCall": [
+	  {
+		"VsPosition": "MP2",
+		"Range": [
+		"QQ", "JJ", "TT", "99", "88", "AKo*", "AQs", "KQs"
+		]
+	  },
+	  {
+		"VsPosition": "MP3",
+		"Range": [
+		"JJ", "TT", "99", "88", "77", "AKo*", "AQo", "AQs", "KQs"
+		]
+	  },
+	  {
+		"VsPosition": "CO",
+		"Range": [
+		"TT", "99", "88", "AQo", "AJo", "KQo", "AJs", "ATs", "KQs", "KJs", "QJs"
+		]
+	  },
+	  {
+		"VsPosition": "BU",
+		"Range": [
+		"99", "88", "77", "66", "KTo", "QJo", "QTo", "A9s", "A8s", "KTs", "K9s", "QJs", "QTs", "JTs", "T9s"
+		]
+	  }
+	  ],
+	  "3Bet": [
+	  {
+		"VsPosition": "MP2",
+		"Range": [
+		"AA", "KK", "AKo*", "44", "33", "AKs", "T9s", "98s", "87s", "76s", "65s"
+		]
+	  },
+	  {
+		"VsPosition": "MP3",
+		"Range": [
+		"AA", "KK", "QQ", "66", "55", "44", "AKo", "AKs", "AQs", "JTs", "T9s", "98s", "87s", "76s"
+		]
+	  },
+	  {
+		"VsPosition": "CO",
+		"Range": [
+		"AA", "KK", "QQ", "JJ", "55", "44", "AKo", "AKs", "AQs", "KTs", "QTs", "JTs", "J9s", "T9s", "T8s", "98s", "97s", "87s", "76s", "65s", "54s"
+		]
+	  },
+	  {
+		"VsPosition": "BU",
+		"Range": [
+		"AA", "KK", "QQ", "JJ", "TT", "55", "44", "33", "AKo", "AQo", "AJo", "ATo", "KQo", "KJo", "AKs", "AQs", "AJs", "ATs", "A7s", "A6s", "A5s", "A4s", "A3s", "A2s", "KQs", "KJs", "K8s", "K7s", "K6s", "K5s", "K4s", "Q9s",
+		"Q8s", "J9s", "J8s", "T8s", "98s", "97s", "87s", "86s", "76s", "75s", "65s", "64s", "54s"
+		]
+	  }
+	  ],
+		"Call3Bet": [
+		{
+			"VsPosition": "BB",
+			"Range": [
+			"AA", "TT", "99", "88", "77", "AQo", "AJo", "ATo", "KQo", "KJo", "AQs", "AJs", "ATs", "A9s", "KQs", "KJs", "KTs", "QJs", "QTs", "JTs", "J9s", "T9s", "98s"
+			]
+		}
+		],
+		"4Bet": [
+		{
+			"VsPosition": "BB",
+			"Range": [
+			"KK", "QQ", "JJ", "AKo", "AKs", "T9s", "T8s", "98s", "97s", "87s", "76s", "65s", "54s"
+			]
+		}
+		]
+	},
+	{
+      "Position": "BB",
+	  "OpenRaise": [
+	  ],
+	  "ColdCall": [
+	  {
+		"VsPosition": "MP2",
+		"Range": [
+		"QQ", "JJ", "TT", "99", "88", "77", "66", "55", "44", "AKo", "AQo", "AQs", "AJs", "ATs", "KQs", "KJs", "QJs", "JTs"
+		]
+	  },
+	  {
+		"VsPosition": "MP3",
+		"Range": [
+		"JJ", "TT", "99", "88", "77", "66", "55", "44", "33", "22", "AQo", "AQs", "AJs", "ATs", "KQs", "KJs", "QJs", "JTs", "T9s", "98s", "87s"
+		]
+	  },
+	  {
+		"VsPosition": "CO",
+		"Range": [
+		"TT", "99", "88", "77", "66", "55", "44", "33", "22", "AQo", "AJo", "KQo", "AJs", "ATs", "KJs", "KTs", "QJs", "QTs", "JTs", "J9s", "T9s", "98s",
+		"75s", "65s", "54s"
+		]
+	  },
+	  {
+		"VsPosition": "BU",
+		"Range": [
+		"99", "88", "77", "66", "55", "44", "33", "A9o", "A8o", "A7o", "A6o", "A5o", "A4o", "A3o", "A2o", "KTo", "K9o", "K8o", "K7o", "QJo", "QTo", "Q9o", "Q8o", "JTo", "J9o", "T9o", "98o", "A8s", "A7s", "A6s", "A5s", "A4s",
+		"A3s", "A2s", "KTs", "K9s", "K8s", "K7s", "K6s", "K5s", "QJs", "QTs", "Q9s", "Q8s", "Q7s", "JTs", "J9s", "J8s", "T9s", "T8s"
+		]
+	  },
+	  {
+		"VsPosition": "SB",
+		"Range": [
+		"TT", "99", "88", "77", "66", "55", "44", "33", "22", "ATo", "A9o", "A8o", "A7o", "A6o", "A5o", "A4o", "A3o", "A2o", "KJo", "KTo", "K9o", "K8o", "K7o", "QJo", "QTo", "Q9o", "Q8o", "JTo", "J9o", "J8o", "T9o", "T8o", "98o",
+		"97o", "87o", "76o", "ATs", "A9s", "A8s", "A7s", "A6s", "A5s", "A4s", "A3s", "A2s", "KJs", "KTs", "K9s", "K8s", "K7s", "K6s", "K5s", "K4s", "K3s", "K2s", "QJs", "QTs", "Q9s", "Q8s", "Q7s", "Q6s", "Q5s", "Q4s", "Q3s",
+		"Q2s", "JTs", "J9s", "J8s", "J7s", "J6s", "J5s", "J4s", "T9s", "T8s", "T7s", "T6s", "T5s", "98s", "97s", "96s", "95s", "87s", "86s", "85s", "76s", "75s", "74s", "65s", "64s", "54s", "53s", "43s"
+		]
+	  }
+	  ],
+	  "3Bet": [
+	  {
+		"VsPosition": "MP2",
+		"Range": [
+		"AA", "KK", "AKo*", "44", "33", "AKs", "T9s", "98s", "87s", "76s", "65s"
+		]
+	  },
+	  {
+		"VsPosition": "MP3",
+		"Range": [
+		"AA", "KK", "QQ", "AKo", "AKs", "AQs", "QTs", "J9s", "T8s", "98s", "97s", "87s", "76s", "65s", "54s"
+		]
+	  },
+	  {
+		"VsPosition": "CO",
+		"Range": [
+		"AA", "KK", "QQ", "JJ", "44", "33", "22", "AKo", "AKs", "AQs", "A5s", "A4s", "K9s", "Q9s", "T8s", "97s", "87s", "86s", "76s", "75s", "65s", "64s", "54s"
+		]
+	  },
+	  {
+		"VsPosition": "BU",
+		"Range": [
+		"AA", "KK", "QQ", "JJ", "TT", "22", "AKo", "AQo", "AJo", "ATo", "KQo", "KJo", "AKs", "AQs", "AJs", "ATs", "A9s", "KQs", "KJs", "K4s", "K3s", "K2s", "Q6s", "Q5s", "Q4s", "Q3s", "Q2s", "J7s", "J6s", "T7s", "98s", "97s", "96s",
+		"87s", "86s", "85s", "76s", "75s", "65s", "64s", "54s", "53s", "43s"
+		]
+	  },
+	  {
+		"VsPosition": "SB",
+		"Range": [
+		]
+	  }
+	  ],
+		"Call3Bet": [
+		],
+		"4Bet": [
+		]
+	}
+  ]
+}
